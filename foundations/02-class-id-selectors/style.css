@@ -1,0 +1,22 @@
+.paragraph {
+    background-color: pink;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#firstDiv {
+    color: blue;
+    font-size: 35px;
+}
+
+#secondDiv {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#firstDiv, #secondDiv{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
